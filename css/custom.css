@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(../font/Montserrat-Regular.ttf) format("truetype");
+}
+body{
+	font-family: Montserrat; 
+}
+.termsCondition {
+          overflow-y: scroll;
+          height: 200px;
+          border: 1px solid #cdd2da;
+      }
+.navbar>.container {
+	display: initial !important;
+}
+.error{
+	color:red !important;
+}
